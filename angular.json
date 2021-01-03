@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "receitas-front"
+    }
+  },
+  "defaultProject": "receitas-front",
+  "cli": {
+    "analytics": false
+  }
 }
